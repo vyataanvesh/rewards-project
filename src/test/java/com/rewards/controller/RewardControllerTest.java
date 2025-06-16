@@ -1,9 +1,9 @@
-package com.example.rewards.controller;
+package com.rewards.controller;
 
-import com.example.rewards.model.RewardResponse;
-import com.example.rewards.model.Transaction;
-import com.example.rewards.service.RewardService;
-import com.example.rewards.repository.TransactionRepository;
+import com.rewards.model.RewardResponse;
+import com.rewards.model.Transaction;
+import com.rewards.service.RewardService;
+import com.rewards.repository.TransactionRepository;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

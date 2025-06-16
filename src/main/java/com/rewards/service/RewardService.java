@@ -1,9 +1,9 @@
-package com.example.rewards.service;
+package com.rewards.service;
 
-import com.example.rewards.model.RewardResponse;
-import com.example.rewards.model.Transaction;
-import com.example.rewards.repository.TransactionRepository;
-import com.example.rewards.util.RewardCalculator;
+import com.rewards.model.RewardResponse;
+import com.rewards.model.Transaction;
+import com.rewards.repository.TransactionRepository;
+import com.rewards.util.RewardCalculator;
 import org.springframework.stereotype.Service;
 
 import java.time.format.DateTimeFormatter;

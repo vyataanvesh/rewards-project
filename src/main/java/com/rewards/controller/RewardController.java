@@ -1,9 +1,9 @@
-package com.example.rewards.controller;
+package com.rewards.controller;
 
-import com.example.rewards.model.RewardResponse;
-import com.example.rewards.model.Transaction;
-import com.example.rewards.repository.TransactionRepository;
-import com.example.rewards.service.RewardService;
+import com.rewards.model.RewardResponse;
+import com.rewards.model.Transaction;
+import com.rewards.repository.TransactionRepository;
+import com.rewards.service.RewardService;
 import io.swagger.v3.oas.annotations.Operation;
 import org.springframework.web.bind.annotation.*;
 

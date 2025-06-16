@@ -1,4 +1,4 @@
-package com.example.rewards.model;
+package com.rewards.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

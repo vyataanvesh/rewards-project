@@ -1,4 +1,4 @@
-package com.example.rewards.util;
+package com.rewards.util;
 
 public class RewardCalculator {
     public static int calculatePoints(double amount) {
